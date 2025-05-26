@@ -1,0 +1,8 @@
+COLUMNS:
+  Index: int64 
+  YearsExperience: float64
+  Salary: float64
+
+
+TARGET_COLUMN:
+  name: Salary
