@@ -72,7 +72,7 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/coolblueraju/End-to-end-Machine-Learning-Project-with-MLflow-Salary.mlflow/
 
 export MLFLOW_TRACKING_USERNAME=coolblueraju
 

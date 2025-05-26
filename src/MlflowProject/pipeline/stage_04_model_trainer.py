@@ -2,7 +2,7 @@ from MlflowProject.config.configuration import ConfigurationManager
 from MlflowProject.components.model_trainer import ModelTrainer
 from MlflowProject import logger
 
-STAGE_NAME = "Data ModelTrainer stage"
+STAGE_NAME = "Model Trainer stage"
 
 class ModelTrainerTrainingPipeline:
     def __init__(self):
